@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sobre - Prof. Igor</title>
+  <style>
+    /* Estilo simples para deixar a página apresentável */
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #222;
+      background: #f7f7f7;
+    }
+    .card {
+      background: #fff;
+      padding: 24px;
+      border-radius: 12px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+    }
+    h1 { margin-top: 0; }
+    ul { margin-top: 12px; }
+    li { margin: 6px 0; }
+    footer { margin-top: 18px; font-size: 0.9rem; color: #555; }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>Prof. Igor</h1>
+    <p>Sou professor de programação e robótica.</p>
+    <p>Vou trabalhar com as seguintes tecnologias:</p>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Python</li>
+    </ul>
+    <footer>Se quiser, edite o nome acima para o seu nome real ou peça para eu alterar o estilo.</footer>
+  </main>
+</body>
+</html>
