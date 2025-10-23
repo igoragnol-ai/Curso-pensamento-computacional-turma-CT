@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sobre - Prof. Igor</title>
   <style>
-    /* Estilo simples para deixar a página apresentável */
     body {
       font-family: Arial, Helvetica, sans-serif;
       max-width: 800px;
@@ -38,7 +37,7 @@
       <li>JavaScript</li>
       <li>Python</li>
     </ul>
-    <footer>Se quiser, edite o nome acima para o seu nome real ou peça para eu alterar o estilo.</footer>
+    <footer>Informaçoes para o curso formadores pensamento computacional</footer>
   </main>
 </body>
 </html>
